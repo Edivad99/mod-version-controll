@@ -11,6 +11,7 @@
         "1.0.0": "First beta of Solar Generation."
     },
     "1.13.2": {
+        "1.1.0": "Add a wrench to dismount easily solar panels.\nFixed minor bugs.",
         "1.0.0": "First beta of Solar Generation for 1.13.2."
     },
     "1.14.4": {
@@ -19,8 +20,8 @@
     "promos": {
         "1.12.2-latest": "1.2.2",
         "1.12.2-recommended": "1.2.2",
-        "1.13.2-latest": "1.0.0",
-        "1.13.2-recommended": "1.0.0",
+        "1.13.2-latest": "1.1.0",
+        "1.13.2-recommended": "1.1.0",
         "1.14.4-latest": "1.0.0",
         "1.14.4-recommended": "1.0.0"
     }
