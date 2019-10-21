@@ -4,10 +4,10 @@
         "1.2.3": "Update recipe for solar core advanced.\nFixed a lot of bugs.",
         "1.2.2": "Fixed a lot of small bugs.",
         "1.2.1": "Now you can obtain the solar panel from solar helmet.\nFixed bugs in the mod.",
-        "1.2" : "Fixed a serious bug in the solar helmet.\nNow you can get back the lapis lazuli from the lapis shards.\nUpdated the minimum version of forge.",
+        "1.2.0": "Fixed a serious bug in the solar helmet.\nNow you can get back the lapis lazuli from the lapis shards.\nUpdated the minimum version of forge.",
         "1.1.2": "Fixed a bug that causes crashes on server side when user place a solar panel in the world. Thanks to Doedelsander for reporting it.",
         "1.1.1": "Fixed a bug that causes crashes on server side. Thanks to Doedelsander for reporting it.",
-        "1.1": "Added Signalum Solar Panel.\nSome crafting has changed, check the JEI.\nAdded translations for other languages.",
+        "1.1.0": "Added Signalum Solar Panel.\nSome crafting has changed, check the JEI.\nAdded translations for other languages.",
         "1.0.1": "Added support for oreDict in the recipes.\nFixed rendering of solar panels.",
         "1.0.0": "First beta of Solar Generation."
     },
@@ -17,6 +17,7 @@
         "1.0.0": "First beta of Solar Generation for 1.13.2."
     },
     "1.14.4": {
+        "1.1.0": "Revamped the advancement system.\nFixed bugs on UI of Solar Panels.",
         "1.0.4": "Bug fixing.",
         "1.0.3": "Fixed a conflict with the lapis shard and the blue dye.\nFixed an issue with the version control that ran on server side.\nOther minor bug fixing.",
         "1.0.2": "Update solar core recipes.\nUse the mod of silent's mechanisms to get all the minerals for the recipes.\nFixed minor bugs.",
@@ -28,7 +29,7 @@
         "1.12.2-recommended": "1.2.3",
         "1.13.2-latest": "1.1.1",
         "1.13.2-recommended": "1.1.1",
-        "1.14.4-latest": "1.0.4",
-        "1.14.4-recommended": "1.0.4"
+        "1.14.4-latest": "1.1.0",
+        "1.14.4-recommended": "1.1.0"
     }
 }
