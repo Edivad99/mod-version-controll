@@ -1,12 +1,13 @@
 {
     "homepage": "https://www.curseforge.com/minecraft/mc-mods/dimstorage",
     "1.12.2": {
+        "1.2.1": "Added support for OpenComputers.",
         "1.2.0": "Fixed a bug that didn't update the GUI after a change in frequency.",
         "1.1.0": "Added support for Waila and TheOneProbe.\nAdded achievements.\nUpdated some recipes.\nBug fixings.",
         "1.0.0": "First alpha of DimStorage."
     },
     "promos": {
-        "1.12.2-latest": "1.2.0",
-        "1.12.2-recommended": "1.2.0"
+        "1.12.2-latest": "1.2.1",
+        "1.12.2-recommended": "1.2.1"
     }
 }
