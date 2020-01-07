@@ -18,6 +18,7 @@
         "1.0.0": "First beta of Solar Generation for 1.13.2."
     },
     "1.14.4": {
+        "1.3.0": "Now the jetpack has priority in recharging.\nBug fixing.",
         "1.2.1": "Fixed a problem in client-server synchronization (thanks to HyCraftHD).",
         "1.2.0": "Added a wrench to destroy solar panels faster.\nSolar Core recipes simplified.\nSolar Helmet recipes changed.",
         "1.1.0": "Revamped the advancement system.\nFixed bugs on UI of Solar Panels.",
@@ -32,6 +33,7 @@
         "1.0.0": "First beta of Solar Generation for 1.15."
     },
     "1.15.1": {
+        "1.1.0": "Now the jetpack has priority in recharging.\nBug fixing.",
         "1.0.0": "First release of Solar Generation for 1.15.1."
     },
     "promos": {
@@ -39,11 +41,11 @@
         "1.12.2-recommended": "1.3.0",
         "1.13.2-latest": "1.1.1",
         "1.13.2-recommended": "1.1.1",
-        "1.14.4-latest": "1.2.1",
-        "1.14.4-recommended": "1.2.1",
+        "1.14.4-latest": "1.3.0",
+        "1.14.4-recommended": "1.3.0",
         "1.15-latest": "1.0.1",
         "1.15-recommended": "1.0.1",
-        "1.15.1-latest": "1.0.0",
-        "1.15.1-recommended": "1.0.0"
+        "1.15.1-latest": "1.1.0",
+        "1.15.1-recommended": "1.1.0"
     }
 }
