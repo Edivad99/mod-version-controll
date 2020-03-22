@@ -8,6 +8,7 @@
         "1.0.0": "First alpha of DimStorage."
     },
      "1.14.4": {
+        "2.3.3": "The DimTablet can transfer items from the player to the associated DimChest.\nDimChest can be measured with the comparator.",
         "2.3.2": "Fixed a bug that prevented the player from opening his DimChest after changing his name.\nDimChests with private frequencies may no longer open, empty the content before updating.\nAdded new languages.",
         "2.3.1": "Fixed bug that showed the chest in reverse.\nFixed the bug that caused the server to crash.",
         "2.3.0": "Added the Dimensional Tablet.\nUpdated the textures of the Dimensional Chest.\nBugs fixings.",
@@ -18,15 +19,16 @@
         "2.0.0": "First beta of DimStorage."
     },
     "1.15.2": {
+        "3.0.2": "The DimTablet can transfer items from the player to the associated DimChest.\nDimChest can be measured with the comparator.",
         "3.0.1": "Fixed a bug that prevented the player from opening his DimChest after changing his name.\nDimChests with private frequencies may no longer open, empty the content before updating.\nAdded new languages.",
         "3.0.0": "First release of DimStorage."
     },
     "promos": {
         "1.12.2-latest": "1.3.0",
         "1.12.2-recommended": "1.3.0",
-        "1.14.4-latest": "2.3.2",
-        "1.14.4-recommended": "2.3.2",
-        "1.15.2-latest": "3.0.1",
-        "1.15.2-recommended": "3.0.1"
+        "1.14.4-latest": "2.3.3",
+        "1.14.4-recommended": "2.3.3",
+        "1.15.2-latest": "3.0.2",
+        "1.15.2-recommended": "3.0.2"
     }
 }
