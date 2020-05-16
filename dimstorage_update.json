@@ -8,6 +8,7 @@
         "1.0.0": "First alpha of DimStorage."
     },
      "1.14.4": {
+        "2.4.4": "Bugs fixings.",
         "2.4.3": "Changes to the DimTank.\nDimTank correctly emits light based on the liquid.\nBug fixings.",
         "2.4.2": "Fixed a problem with TOP.",
         "2.4.1": "Added new commands.\nDimTank is waterloggable.\nBetter TOP integration.\nBug fixings.",
@@ -36,8 +37,8 @@
     "promos": {
         "1.12.2-latest": "1.3.0",
         "1.12.2-recommended": "1.3.0",
-        "1.14.4-latest": "2.4.3",
-        "1.14.4-recommended": "2.4.3",
+        "1.14.4-latest": "2.4.4",
+        "1.14.4-recommended": "2.4.4",
         "1.15.2-latest": "3.1.3",
         "1.15.2-recommended": "3.1.3"
     }
