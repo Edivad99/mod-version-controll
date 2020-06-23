@@ -39,6 +39,7 @@
         "1.0.0": "First release of Solar Generation for 1.15.1."
     },
     "1.15.2": {
+        "1.2.2": "Fixed synchronization between client and server",
         "1.2.1": "Minor optimizations",
         "1.2.0": "Updated to 1.15.2.\nBugs fixings."
     },
@@ -53,7 +54,7 @@
         "1.15-recommended": "1.0.1",
         "1.15.1-latest": "1.1.1",
         "1.15.1-recommended": "1.1.1",
-        "1.15.2-latest": "1.2.1",
-        "1.15.2-recommended": "1.2.1"
+        "1.15.2-latest": "1.2.2",
+        "1.15.2-recommended": "1.2.2"
     }
 }
