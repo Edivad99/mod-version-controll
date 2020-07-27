@@ -1,0 +1,10 @@
+{
+    "homepage": "https://www.curseforge.com/minecraft/mc-mods/fluidsystem",
+    "1.16.1": {
+        "1.0.0": "First beta of FluidSystem for Minecraft 1.16.1"
+    },
+    "promos": {
+        "1.16.1-latest": "1.0.0",
+        "1.16.1-recommended": "1.0.0"
+    }
+}
