@@ -51,6 +51,7 @@
         "2.1.0": "First release for Minecraft 1.16.2"
     },
     "1.16.3": {
+        "2.2.1": "General improvements.",
         "2.2.0": "First release for Minecraft 1.16.3"
     },
     "promos": {
@@ -70,7 +71,7 @@
         "1.16.1-recommended": "2.0.1",
         "1.16.2-latest": "2.1.0",
         "1.16.2-recommended": "2.1.0",
-        "1.16.3-latest": "2.2.0",
-        "1.16.3-recommended": "2.2.0"
+        "1.16.3-latest": "2.2.1",
+        "1.16.3-recommended": "2.2.1"
     }
 }
