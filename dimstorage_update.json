@@ -48,6 +48,7 @@
         "4.1.0": "First release for Minecraft 1.16.2"
     },
     "1.16.3": {
+        "4.2.1": "Bug fixings.",
         "4.2.0": "First release for Minecraft 1.16.3"
     },
     "promos": {
@@ -61,7 +62,7 @@
         "1.16.1-recommended": "4.0.3",
         "1.16.2-latest": "4.1.0",
         "1.16.2-recommended": "4.1.0",
-        "1.16.3-latest": "4.2.0",
-        "1.16.3-recommended": "4.2.0"
+        "1.16.3-latest": "4.2.1",
+        "1.16.3-recommended": "4.2.1"
     }
 }
