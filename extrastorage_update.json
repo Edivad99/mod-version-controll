@@ -1,11 +1,12 @@
 {
     "homepage": "https://www.curseforge.com/minecraft/mc-mods/extrastorage",
     "1.16.3": {
+        "1.1.0": "Added Advanced Importer.\nMade netherite crafter clearer when active.\nAdded the ability to switch modes for crafters.\nFixed a bug on the server.",
         "1.0.1": "Fixed a server-side issue.",
         "1.0.0": "First beta of Extra Storage for Minecraft 1.16.3"
     },
     "promos": {
-        "1.16.3-latest": "1.0.1",
-        "1.16.3-recommended": "1.0.1"
+        "1.16.3-latest": "1.1.0",
+        "1.16.3-recommended": "1.1.0"
     }
 }
