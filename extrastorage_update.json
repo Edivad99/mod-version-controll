@@ -7,13 +7,14 @@
         "1.0.0": "First beta of Extra Storage for Minecraft 1.16.3"
     },
     "1.16.4": {
+        "1.2.2": "Fix ResourceLocation's bug.\nUpdate Forge and Refined Storage.",
         "1.2.1": "The orientation of the crafter is the same as that of the RS.\nFixed a bug with Carry On.",
         "1.2.0": "First release of ExtraStorage for Minecraft 1.16.4"
     },
     "promos": {
         "1.16.3-latest": "1.1.1",
         "1.16.3-recommended": "1.1.1",
-        "1.16.4-latest": "1.2.1",
-        "1.16.4-recommended": "1.2.1"
+        "1.16.4-latest": "1.2.2",
+        "1.16.4-recommended": "1.2.2"
     }
 }
