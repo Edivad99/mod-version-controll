@@ -55,6 +55,7 @@
         "4.3.0": "First release for Minecraft 1.16.4"
     },
     "1.16.5": {
+        "4.4.1": "Removed the Collect button from DimChest, as it caused quite a bit of trouble.",
         "4.4.0": "First release for Minecraft 1.16.5"
     },
     "promos": {
@@ -72,7 +73,7 @@
         "1.16.3-recommended": "4.2.1",
         "1.16.4-latest": "4.3.0",
         "1.16.4-recommended": "4.3.0",
-        "1.16.5-latest": "4.4.0",
-        "1.16.5-recommended": "4.4.0"
+        "1.16.5-latest": "4.4.1",
+        "1.16.5-recommended": "4.4.1"
     }
 }
