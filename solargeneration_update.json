@@ -72,6 +72,7 @@
         "4.1.0": "First release for Minecraft 1.18.2"
     },
     "1.19": {
+        "5.0.1": "Update Forge.",
         "5.0.0": "First release for Minecraft 1.19"
     },
     "promos": {
@@ -103,7 +104,7 @@
         "1.18.1-recommended": "4.0.0",
         "1.18.2-latest": "4.1.1",
         "1.18.2-recommended": "4.1.1",
-        "1.19-latest": "5.0.0",
-        "1.19-recommended": "5.0.0"
+        "1.19-latest": "5.0.1",
+        "1.19-recommended": "5.0.1"
     }
 }
