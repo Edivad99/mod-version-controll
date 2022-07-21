@@ -27,6 +27,7 @@
         "2.0.0": "First beta for Minecraft 1.18.1."
     },
     "1.18.2": {
+        "2.2.0": "Reduced energy consumption for crafters.\nAdded the ability to change the energy level required by crafters through config.\nNew translations.\nFix a bug on version control.",
         "2.1.0": "First release for Minecraft 1.18.2."
     },
     "promos": {
@@ -38,7 +39,7 @@
         "1.16.5-recommended": "1.6.1",
         "1.18.1-latest": "2.0.1",
         "1.18.1-recommended": "2.0.1",
-        "1.18.2-latest": "2.1.0",
-        "1.18.2-recommended": "2.1.0"
+        "1.18.2-latest": "2.2.0",
+        "1.18.2-recommended": "2.2.0"
     }
 }
