@@ -26,6 +26,9 @@
     "1.19.2": {
         "3.2.0": "First release for Minecraft 1.19.2"
     },
+    "1.19.3": {
+        "3.3.0": "First release for Minecraft 1.19.3"
+    },
     "promos": {
         "1.16.2-latest": "1.1.0",
         "1.16.2-recommended": "1.1.0",
@@ -42,6 +45,8 @@
         "1.19.1-latest": "3.1.0",
         "1.19.1-recommended": "3.1.0",
         "1.19.2-latest": "3.2.0",
-        "1.19.2-recommended": "3.2.0"
+        "1.19.2-recommended": "3.2.0",
+        "1.19.3-latest": "3.3.0",
+        "1.19.3-recommended": "3.3.0"
     }
 }
