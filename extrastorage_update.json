@@ -27,7 +27,7 @@
         "2.0.0": "First beta for Minecraft 1.18.1."
     },
     "1.18.2": {
-        "2.2.1": "Crafters now evenly distribute the items to be processed.\nResolved a bug with the inventorysorter."
+        "2.2.1": "Crafters now evenly distribute the items to be processed.\nResolved a bug with the inventorysorter.",
         "2.2.0": "Reduced energy consumption for crafters.\nAdded the ability to change the energy level required by crafters through config.\nNew translations.\nFix a bug on version control.",
         "2.1.0": "First release for Minecraft 1.18.2."
     },
