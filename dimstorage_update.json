@@ -82,6 +82,7 @@
         "7.3.0": "First release for Minecraft 1.19.4"
     },
     "1.20.1": {
+        "8.0.1": "Bug fix.",
         "8.0.0": "First release for Minecraft 1.20.1"
     },
     "promos": {
@@ -115,7 +116,7 @@
         "1.19.2-recommended": "7.2.0",
         "1.19.4-latest": "7.3.0",
         "1.19.4-recommended": "7.3.0",
-        "1.20.1-latest": "8.0.0",
-        "1.20.1-recommended": "8.0.0"
+        "1.20.1-latest": "8.0.1",
+        "1.20.1-recommended": "8.0.1"
     }
 }
